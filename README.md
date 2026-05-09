@@ -1,1 +1,1 @@
-## Hello, My nama is Tulio Guilherme.
+## Hello, My name is Tulio Guilherme.
