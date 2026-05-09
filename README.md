@@ -49,10 +49,10 @@ Minha paixão pela tecnologia é impulsionada pela robustez e complexidade do Ja
 ## 📊 GitHub Stats
 
 <a href="https://github.com/tulioguilherme607-byte">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=tulioguilherme607-byte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=tulioguilherme607-byte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" />
 </a>
 <a href="https://github.com/tulioguilherme607-byte">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioguilherme607-byte&layout=compact&langs_count=6&card_width=320&theme=tokyonight&locale=pt-br" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioguilherme607-byte&layout=compact&langs_count=6&card_width=320&theme=tokyonight&locale=pt-br&cache_seconds=1800" />
 </a>
 
 
