@@ -1,11 +1,11 @@
-# Tulio Guilherme
+⁹# Tulio Guilherme
 
 🚀 **`Junior Software Engineer | Full Stack - Java`**  
 🇧🇷 Brazil
 
 Estou cursando Engenharia de Software no Centro Universitário Alves Faria (UNIALFA) em Goiânia. Sou apaixonado pelo ecossistema Java e estou trabalhando para me consolidar como Desenvolvedor Full-Stack Java.
 
-Minha paixão pela tecnologia é impulsionada pela robustez e complexidade do Java. Pretendo me desenvolver e crescer para um dia um full stack na linguagem. Estou em constante evolução, explorando desde a lógica backend até a integração com interfaces modernas.
+Minha paixão pela tecnologia é impulsionada pela robustez e complexidade do Java. Estou em constante evolução, explorando desde a lógica backend até a integração com interfaces modernas.
 
 <br/>
 
