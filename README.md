@@ -1,7 +1,6 @@
-⁹# Tulio Guilherme
+# Tulio Guilherme
 
-🚀 **`Junior Software Engineer | Full Stack - Java`**  
-🇧🇷 Brazil
+🚀 **`Junior Software Engineer | Full Stack - Java`** 🇧🇷 Brazil
 
 Estou cursando Engenharia de Software no Centro Universitário Alves Faria (UNIALFA) em Goiânia. Sou apaixonado pelo ecossistema Java e estou trabalhando para me consolidar como Desenvolvedor Full-Stack Java.
 
@@ -30,7 +29,7 @@ Minha paixão pela tecnologia é impulsionada pela robustez e complexidade do Ja
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="Spring" title="Spring" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -43,5 +42,3 @@ Minha paixão pela tecnologia é impulsionada pela robustez e complexidade do Ja
 <img align="left" alt="Windows 11" title="Windows 11" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 
 <br/><br/>
-
-
