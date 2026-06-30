@@ -2,9 +2,7 @@
 
 🚀 **`Junior Software Engineer | Full Stack - Java`** 🇧🇷 Brazil
 
-Estou cursando Engenharia de Software no Centro Universitário Alves Faria (UNIALFA) em Goiânia. Sou apaixonado pelo ecossistema Java e estou trabalhando para me consolidar como Desenvolvedor Full-Stack Java.
-
-Minha paixão pela tecnologia é impulsionada pela robustez e complexidade do Java. Estou em constante evolução, explorando desde a lógica backend até a integração com interfaces modernas.
+Estou cursando Engenharia de Software no Centro Universitário Alves Faria (UNIALFA) em Goiânia.
 
 <br/>
 
