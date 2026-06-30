@@ -8,7 +8,7 @@ Software Engineering student at UNIALFA (Goiânia). Growing and evolving in tech
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Where to Find Me:
 
 <p align="left">
   <a href="https://github.com/tulioguilherme607-byte">
@@ -24,7 +24,7 @@ Software Engineering student at UNIALFA (Goiânia). Growing and evolving in tech
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies:
 
 <img align="left" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
