@@ -2,7 +2,7 @@
 
 🚀 **`Junior Software Engineer | Machine Learning Engineer | AI Data Engineer`** 🇧🇷 Brazil
 
-Estou cursando Engenharia de Software no Centro Universitário Alves Faria (UNIALFA) em Goiânia.
+Software Engineering student at UNIALFA (Goiânia). Growing and evolving in technology day by day.
 
 <br/>
 
