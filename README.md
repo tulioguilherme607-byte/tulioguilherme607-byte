@@ -5,9 +5,7 @@
 Software Engineering student at UNIALFA (Goiânia). Growing and evolving in technology day by day.
 
 <br/>
-
 ---
-
 ## 🌐 Where to Find Me:
 
 <p align="left">
